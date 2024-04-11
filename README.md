@@ -1,18 +1,18 @@
+# Snake Game
+
+## Description
+This is a simple implementation of the classic Snake game using Java. The player controls a snake that moves around the screen, eating food pellets to grow longer. The game ends when the snake runs into itself or the boundaries of the screen.
+
+## Features
+- Classic Snake gameplay.
+- Simple graphics using Java's AWT library.
+- Score tracking.
+- Increasing difficulty as the snake grows longer.
+
 ## Getting Started
+To run the game, you'll need:
+- Java Development Kit (JDK) installed on your system.
+- An IDE like IntelliJ IDEA or Eclipse (optional but recommended).
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Controls
+- Use the arrow keys to control the direction of the snake.
